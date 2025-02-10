@@ -1,2 +1,2 @@
-# sf_data_science
-SF homework
+# Home_work_1
+first_homework
